@@ -1,0 +1,2 @@
+# DiagonalizeMySudoku
+Many Sudoku variants
